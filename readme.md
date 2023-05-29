@@ -1,0 +1,2 @@
+I assume that base stations need to be present in database, otherwise its coordinates are unknown. There is no
+description for what "error_code" is, so I will just use http 404 status code when MS is not found.
